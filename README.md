@@ -18,3 +18,12 @@ Cancer subtypes in the dataset
 • COAD: Colon Adenocarcinoma
 • LUAD: Lung Adenocarcinoma
 • PRAD: Prostate Adenocarcinoma 
+First, it looks at the data without predefined categories, using methods like Principal Component Analysis (PCA) and K-means
+clustering to find hidden patterns. Then using models like Random Forest, Support Vector Machines (SVM) and Logistic Regression to categorize
+different types of cancer based on gene expression patterns. Among the classification algorithms, Random Forest emerged as the optimal
+choice due to its high accuracy, robustness, and resilience against overfitting
+
+Even though there has been progress, there are still challenges like uncomfortable biopsies,
+treatments that don't work well, and the difficulty of tracking how cancer changes over time. But
+ongoing research, using genetics and molecular technologies, gives us hope for better ways to
+diagnose and treat cancer. 
