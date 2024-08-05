@@ -27,3 +27,8 @@ Even though there has been progress, there are still challenges like uncomfortab
 treatments that don't work well, and the difficulty of tracking how cancer changes over time. But
 ongoing research, using genetics and molecular technologies, gives us hope for better ways to
 diagnose and treat cancer. 
+
+
+This project is developed and executed in a Jupyter Notebook using Python. 
+
+
